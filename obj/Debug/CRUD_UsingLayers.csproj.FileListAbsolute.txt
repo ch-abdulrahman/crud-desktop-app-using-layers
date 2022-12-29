@@ -1,0 +1,11 @@
+D:\Abdul\C#\CRUD_UsingLayers\bin\Debug\CRUD_UsingLayers.exe.config
+D:\Abdul\C#\CRUD_UsingLayers\bin\Debug\CRUD_UsingLayers.exe
+D:\Abdul\C#\CRUD_UsingLayers\bin\Debug\CRUD_UsingLayers.pdb
+D:\Abdul\C#\CRUD_UsingLayers\obj\Debug\CRUD_UsingLayers.csproj.AssemblyReference.cache
+D:\Abdul\C#\CRUD_UsingLayers\obj\Debug\CRUD_UsingLayers.csproj.SuggestedBindingRedirects.cache
+D:\Abdul\C#\CRUD_UsingLayers\obj\Debug\CRUD_UsingLayers.PresentationLayer.MainForm.resources
+D:\Abdul\C#\CRUD_UsingLayers\obj\Debug\CRUD_UsingLayers.Properties.Resources.resources
+D:\Abdul\C#\CRUD_UsingLayers\obj\Debug\CRUD_UsingLayers.csproj.GenerateResource.cache
+D:\Abdul\C#\CRUD_UsingLayers\obj\Debug\CRUD_UsingLayers.csproj.CoreCompileInputs.cache
+D:\Abdul\C#\CRUD_UsingLayers\obj\Debug\CRUD_UsingLayers.exe
+D:\Abdul\C#\CRUD_UsingLayers\obj\Debug\CRUD_UsingLayers.pdb
